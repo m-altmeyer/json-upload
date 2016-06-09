@@ -1,2 +1,2 @@
 # json-upload
-A git repo storing some entities as json
+A git repo stroing some entities as json
