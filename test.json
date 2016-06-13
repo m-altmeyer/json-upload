@@ -1,1 +1,1 @@
-{     "name": "Testaaaa2", "test":"abc"   }
+{ 	"FontFamilyName": "IndustryEssentials", 	"KeyWordMapping": [{ 		"Character": "b", 		"Name": "Handschuh", 		"KeyWords": ["Handschuh", "Sicherheit"] 	}, { 		"Character": "\u00C1", 		"Name": "Gehörschutz", 		"KeyWords": ["Gehörschutz", "Sicherheit", "Kopf"] 	}] }
