@@ -1,1 +1,24 @@
-hallo
+{
+  "content": {
+    "FontFamilyName": "IndustryEssentials",
+    "KeyWordMapping": [
+      {
+        "Character": "b",
+        "Name": "Handschuh",
+        "KeyWords": [
+          "Handschuh",
+          "Sicherheit"
+        ]
+      },
+      {
+        "Character": "Á",
+        "Name": "Gehörschutz",
+        "KeyWords": [
+          "Gehörschutz",
+          "Sicherheit",
+          "Kopf"
+        ]
+      }
+    ]
+  }
+}
