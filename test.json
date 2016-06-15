@@ -1,32 +1,15 @@
 {
-  "content": {
-    "FontFamilyName": "IndustryEssentials",
-    "KeyWordMapping": [
-      {
-        "Character": "b",
-        "Name": "Handschuh",
-        "KeyWords": [
-          "Handschuh",
-          "Sicherheit"
-        ]
-      },
-      {
-        "Character": "Á",
-        "Name": "Gehörschutz",
-        "KeyWords": [
-          "Gehörschutz",
-          "Sicherheit",
-          "Kopf"
-        ]
-      },
-      {
-        "Character": "f",
-        "Name": "Bla",
-        "KeyWords": [
-          "Test",
-          "Sicherheit"
-        ]
-      }
-    ]
-  }
+  "FontFamilyName":"IndustryEssentials",
+  "KeyWordMapping":[
+    {
+      "Character":"b",
+      "Name":"Handschuh",
+      "KeyWords": ["Handschuh", "Sicherheit"]
+    },
+    {
+      "Character":"\u00C1",
+      "Name":"Gehörschutz",
+      "KeyWords":["Gehörschutz", "Sicherheit", "Kopf"]
+    }
+  ]
 }
