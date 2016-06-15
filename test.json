@@ -10,6 +10,21 @@
       "Character":"\u00C1",
       "Name":"Gehörschutz",
       "KeyWords":["Gehörschutz", "Sicherheit", "Kopf", "TEST"]
-    }
+    },
+    {
+      "Character":"d",
+      "Name":"Test",
+      "KeyWords": ["Handschuh", "Test"]
+  },
+  {
+      "Character":"f",
+      "Name":"Test 2",
+      "KeyWords": ["Bla", "Sicherheit", "Test"]
+},
+{
+      "Character":"g",
+      "Name":"Test 3",
+      "KeyWords": ["Tag", "Blubb", "Test"]
+}
   ]
 }
