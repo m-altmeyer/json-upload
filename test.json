@@ -13,5 +13,10 @@
 		"Character": "c",
 		"Name": "Bla",
 		"KeyWords": ["Handschuh", "Sicherheit"]
+	},
+	{
+		"Character": "c",
+		"Name": "Blubb",
+		"KeyWords": ["Handschuh", "Sicherheit"]
 	}]
 }
