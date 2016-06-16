@@ -1,1 +1,51 @@
-test123
+{
+  "content": {
+    "FontFamilyName": "IndustryEssentials",
+    "KeyWordMapping": [
+      {
+        "Character": "b",
+        "Name": "Handschuh",
+        "KeyWords": [
+          "Handschuh",
+          "Sicherheit"
+        ]
+      },
+      {
+        "Character": "Á",
+        "Name": "Gehörschutz",
+        "KeyWords": [
+          "Gehörschutz",
+          "Sicherheit",
+          "Kopf",
+          "TEST"
+        ]
+      },
+      {
+        "Character": "d",
+        "Name": "Test",
+        "KeyWords": [
+          "Handschuh",
+          "Test"
+        ]
+      },
+      {
+        "Character": "f",
+        "Name": "Test 2",
+        "KeyWords": [
+          "Bla",
+          "Sicherheit",
+          "Test"
+        ]
+      },
+      {
+        "Character": "g",
+        "Name": "Test 3",
+        "KeyWords": [
+          "Tag",
+          "Blubb",
+          "Test"
+        ]
+      }
+    ]
+  }
+}
