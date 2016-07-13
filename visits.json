@@ -12,8 +12,8 @@
 	"client": {
 		"name": "Bosch",
 		"logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Bosch-brand.svg"
-},
-{
+	}
+}, {
 	"start": 1468414800,
 	"end": 1468416600,
 	"message": "Cookies!",
