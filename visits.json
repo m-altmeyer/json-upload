@@ -8,9 +8,17 @@
 }, {
 	"start": 1468413180,
 	"end": 1468413660,
-	"message":"Mittagspause!",
+	"message": "Mittagspause!",
 	"client": {
 		"name": "Bosch",
 		"logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Bosch-brand.svg"
+},
+{
+	"start": 1468414800,
+	"end": 1468416600,
+	"message": "Cookies!",
+	"client": {
+		"name": "Bosch",
+		"logo": "http://forum.wii-homebrew.com/gallery/userImages/55/4090-55014d63.png"
 	}
 }]
