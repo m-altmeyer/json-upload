@@ -4,11 +4,7 @@
         {
             "character": "a",
             "tags": [
-                "Sicherheit",
-                "a",
-                "hallo",
-                "promises_remote",
-                "test_github"
+                "Sicherheit"
             ]
         },
         {
@@ -23,205 +19,127 @@
             "character": "Á",
             "tags": [
                 "Gehörschutz",
-                "test2",
-                "c"
+                "Sicherheit",
+                "Ohr"
             ]
         },
         {
             "character": "c",
             "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "test",
-                "d",
-                "Ikea"
+                "Sicherheit"
             ]
         },
         {
             "character": "d",
             "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "e"
+                "Button",
+                "Drücker",
+                "Alarm"
             ]
         },
         {
             "character": "e",
             "tags": [
-                "Handschuh",
                 "Sicherheit",
-                "f"
+                "Warnung",
+                "Hinweis"
             ]
         },
         {
             "character": "f",
             "tags": [
-                "Handschuh",
                 "Sicherheit",
-                "g"
+                "Schuh"
             ]
         },
         {
             "character": "g",
             "tags": [
-                "Handschuh",
                 "Sicherheit",
-                "h"
+                "Warnung",
+                "Strom"
             ]
         },
         {
             "character": "h",
             "tags": [
-                "Handschuh",
                 "Sicherheit",
-                "tee",
-                "i"
+                "Temperatur"
             ]
         },
         {
             "character": "i",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "j"
-            ]
+            "tags": []
         },
         {
             "character": "j",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "k"
-            ]
+            "tags": []
         },
         {
             "character": "k",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "l"
-            ]
+            "tags": []
         },
         {
             "character": "l",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "m"
-            ]
+            "tags": []
         },
         {
             "character": "m",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "n"
-            ]
+            "tags": []
         },
         {
             "character": "n",
             "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "o",
                 "laut"
             ]
         },
         {
             "character": "o",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "p"
-            ]
+            "tags": []
         },
         {
             "character": "p",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "q"
-            ]
+            "tags": []
         },
         {
             "character": "q",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "r"
-            ]
+            "tags": []
         },
         {
             "character": "r",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "s"
-            ]
+            "tags": []
         },
         {
             "character": "s",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "t"
-            ]
+            "tags": []
         },
         {
             "character": "t",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "u"
-            ]
+            "tags": []
         },
         {
             "character": "u",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "v"
-            ]
+            "tags": []
         },
         {
             "character": "v",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "w"
-            ]
+            "tags": []
         },
         {
             "character": "w",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "x"
-            ]
+            "tags": []
         },
         {
             "character": "x",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "y"
-            ]
+            "tags": []
         },
         {
             "character": "y",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "z"
-            ]
+            "tags": []
         },
         {
             "character": "z",
-            "tags": [
-                "Handschuh",
-                "Sicherheit",
-                "?"
-            ]
+            "tags": []
         }
     ]
 }
