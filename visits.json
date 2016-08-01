@@ -9,10 +9,10 @@
 }, {
 	"start": 1470043200,
 	"end": 1470045600,
-	"message": "Mensa Time!",
+	"message": "TEST",
 	"client": {
-		"name": "Mensa",
-		"logo": "https://upload.wikimedia.org/wikipedia/de/c/cb/Logo_Burger_King.svg"
+		"name": "TEST",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"
 	}
 }, {
 	"start": 0,
