@@ -4,9 +4,10 @@
         {
             "character": "a",
             "tags": [
-                "Sicherheit",
-                "Pizza",
-                "Test"
+                "Luft",
+                "Druckluft",
+                "Sauber",
+                "Wind"
             ]
         },
         {
@@ -22,13 +23,19 @@
             "tags": [
                 "Gehörschutz",
                 "Sicherheit",
-                "Ohr"
+                "Ohr",
+                "leise",
+                "schall"
             ]
         },
         {
             "character": "c",
             "tags": [
-                "Sicherheit"
+                "Schlüssel",
+                "imbus",
+                "IKEA",
+                "Schraube",
+                "Werkzeug"
             ]
         },
         {
