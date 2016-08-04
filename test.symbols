@@ -107,7 +107,9 @@
         },
         {
             "character": "p",
-            "tags": []
+            "tags": [
+                "Tempertarur"
+            ]
         },
         {
             "character": "q",
