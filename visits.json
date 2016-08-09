@@ -4,7 +4,7 @@
 	"message": "Herzlich Willkommen!",
 	"client": {
 		"name": "Zwick",
-		"logo": "http://lumzy.com/help/images/components/modal.png"
+		"logo": "./img/logo.svg"
 	}
 }, {
 	"start": 1470051600,
