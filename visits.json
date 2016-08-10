@@ -1,23 +1,23 @@
 [{
-	"start": 1470747600,
-	"end": 1470753387,
-	"message": "Herzlich Willkommen!",
+	"start": 1470811200,
+	"end": 1470811800,
+	"message": "08:40-08:50",
 	"client": {
 		"name": "Zwick",
-		"logo": "./img/logo.svg"
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zwick_Roell_Logo.svg"
 	}
 }, {
-	"start": 1470051600,
-	"end": 1470052200,
-	"message": "TEST",
+	"start": 1470814800,
+	"end": 1470815400,
+	"message": "09:40-09:50",
 	"client": {
 		"name": "TEST",
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"
 	}
 }, {
-	"start": 0,
-	"end": 0,
-	"message": "Cookies!",
+	"start": 1470832800,
+	"end": 1470833400,
+	"message": "14:40-14:50",
 	"client": {
 		"name": "Bosch",
 		"logo": "http://forum.wii-homebrew.com/gallery/userImages/55/4090-55014d63.png"
