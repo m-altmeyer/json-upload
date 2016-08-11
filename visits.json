@@ -15,11 +15,11 @@
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"
 	}
 }, {
-	"start": 1470832800,
-	"end": 1470833400,
-	"message": "14:40-14:50",
+	"start": 1470910560,
+	"end": 1470910800,
+	"message": "...UND WEITER GEHT'S!",
 	"client": {
 		"name": "Bosch",
-		"logo": "http://forum.wii-homebrew.com/gallery/userImages/55/4090-55014d63.png"
+		"logo": "./img/logo.svg"
 	}
 }]
