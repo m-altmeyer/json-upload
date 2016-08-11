@@ -20,6 +20,6 @@
 	"message": "HERZLICH WILLKOMMEN BEI CENTIGRADE LIEBER BATMAN!",
 	"client": {
 		"name": "Bosch",
-		"logo": "http://www.vectortemplates.com/raster/batman/batman-logo-big.gif"
+		"logo": "./img/logo.svg"
 	}
 }]
