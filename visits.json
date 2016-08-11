@@ -15,11 +15,11 @@
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"
 	}
 }, {
-	"start": 1470910560,
-	"end": 1470910800,
-	"message": "...UND WEITER GEHT'S!",
+	"start": 1470921060,
+	"end": 1470921960,
+	"message": "BAM!",
 	"client": {
 		"name": "Bosch",
-		"logo": "./img/logo.svg"
+		"logo": "https://couchsurfhero.files.wordpress.com/2015/04/pow2.png"
 	}
 }]
