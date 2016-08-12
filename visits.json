@@ -20,7 +20,7 @@
 	"message": "Weekly Engineering Absprache",
 	"client": {
 		"name": "Bosch",
-		"logo": "https://offisy.at/images/icons/icon-calendar.jpg"
+		"logo": "http://simpleicon.com/wp-content/uploads/Calendar-Time.png"
 	}
 } , {
 	"start": 1471002900,
@@ -28,7 +28,7 @@
 	"message": "Einführung EMBRACE Clemens Hochofen 2",
 	"client": {
 		"name": "Bosch",
-		"logo": "https://offisy.at/images/icons/icon-calendar.jpg"
+		"logo": "http://simpleicon.com/wp-content/uploads/Calendar-Time.png"
 	}
 } , {
 	"start": 1470985800,
@@ -36,6 +36,6 @@
 	"message": "Zwick Angular Anbindung",
 	"client": {
 		"name": "Bosch",
-		"logo": "https://offisy.at/images/icons/icon-calendar.jpg"
+		"logo": "http://simpleicon.com/wp-content/uploads/Calendar-Time.png"
 	}
 }]
