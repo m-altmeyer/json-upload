@@ -9,10 +9,10 @@
 }, {
 	"start": 1472215728,
 	"end": 1472220048,
-	"message": "09:40-09:50",
+	"message": "HERZLICH WILLKOMMEN BEI CENTIGRADE",
 	"client": {
 		"name": "TEST",
-		"logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"
+		"logo": "./img/logo.svg"
 	}
 }, {
 	"start": 1472039814,
